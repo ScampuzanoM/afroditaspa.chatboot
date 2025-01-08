@@ -1,0 +1,1882 @@
+[
+  {
+    "ref": "38ea0d10-fb0e-41ff-a015-9157bd5d1123",
+    "keyword": "a2ccc49680d312a17766fc74fea5c32e",
+    "answer": "bot",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "a2ccc49680d312a17766fc74fea5c32e"
+  },
+  {
+    "ref": "ans_f58cbc3c-4c59-4808-bac3-3846514fe02d",
+    "keyword": "key_76340c28-1dbf-43a1-ae83-528a09b896ce",
+    "answer": "🙌 ¡Hola! Bienvenid@ a Spa Afrodita. Soy tu asistente virtual, *AfroditaBot*.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "c8535823a23fcb4fd10485169b7a2ede",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_27c774a9-b7aa-48fc-a966-a01b66668787",
+    "keyword": "ans_f58cbc3c-4c59-4808-bac3-3846514fe02d",
+    "answer": "*Menú:*\n\n1. 🌐 Soy Nuev@\n2. 👋 Ya soy cliente.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "6691753854db1dddd58a2ba58c95dd15",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_95a0d804-bba7-40cf-8f8f-e86f6b2ab7d1",
+    "keyword": "ans_27c774a9-b7aa-48fc-a966-a01b66668787",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9bf9a3b2abd0453c72edf836ab794b7a",
+    "from": "573508363260"
+  },
+  {
+    "ref": "f63a1536-e0a1-48b8-931f-8903df097d4c",
+    "keyword": "9bf9a3b2abd0453c72edf836ab794b7a",
+    "answer": "2",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_17227625-71e0-42b6-9e5a-6a08d3831ef5",
+    "keyword": "key_d701e254-b3ad-49f1-8d5a-7ec7b9cac95e",
+    "answer": "🌟 ¿Quieres conocer un poco más de nosotros y nuestros servicios? ¡Síguenos!\n🔗 https://www.instagram.com/afroditaspa_pereira/",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b5353a31a9e778925556ea8640ba499a",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_5530daa7-7246-41b6-8d8c-f277ab795684",
+    "keyword": "ans_17227625-71e0-42b6-9e5a-6a08d3831ef5",
+    "answer": "*📋 Menú:*\n\n1. 💅 Uñas\n2. 👁️ Pestañas\n3. 🎨 Cejas\n4. 🌸 Rostro",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "1961bd1a50931d0b2f0c060be8f0a03d",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_57054500-44ad-4129-8355-d39b22ab299f",
+    "keyword": "ans_5530daa7-7246-41b6-8d8c-f277ab795684",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_3a15e1db-1104-4cdf-9002-ee61dbdffe6d",
+          "keyword": [
+            "1"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+        },
+        {
+          "ref": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+          "keyword": "key_3a15e1db-1104-4cdf-9002-ee61dbdffe6d",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en uñas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "f600eb6000088abcac697faf950210f6"
+        },
+        {
+          "ref": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+          "keyword": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "650f9fa28cf14a7c7701d82fbced3044"
+        },
+        {
+          "ref": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+          "keyword": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "403b55c2b5d161c7b1daec5632db621d"
+        },
+        {
+          "ref": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+          "keyword": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+          "answer": "1. 💅 Manicure y Pedicure\n2. 🌸 Tradicional\n3. 💎 Semipermanente\n4. ✨ Poligel\n5. 🖐️ PressOn\n6. 🔮 Acrílico esculpido\n7. 🖌️ Acrílico TIP\n8. 🎨 Barrido de acrílico\n9. 🛁 PediSpa",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "902c1b15e6c6bba9e46646cab437dd6d"
+        },
+        {
+          "ref": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+          "keyword": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0c80b8765b65b9391c7a1dd29ad78858"
+        },
+        {
+          "ref": "ans_0023f33b-2aa1-4692-9ba2-ec292b914f90",
+          "keyword": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ca10cd4909d34f21cca2d8fb420da144"
+        },
+        {
+          "ref": "key_41c13012-51e3-423f-bef4-f39c71e0f4e5",
+          "keyword": [
+            "2"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+        },
+        {
+          "ref": "ans_e1c6e285-d084-4a97-a044-c15dcec257d7",
+          "keyword": "key_41c13012-51e3-423f-bef4-f39c71e0f4e5",
+          "answer": "👁️ Conoce un poco más sobre nuestro trabajo de pestañas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "cab0a5f9d9d7a8e51b0107940e56dfb3"
+        },
+        {
+          "ref": "ans_b021703a-5586-461a-8a34-7862fbaa1504",
+          "keyword": "ans_e1c6e285-d084-4a97-a044-c15dcec257d7",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "deebfa96f6d472dfe3318d6b30f1944f"
+        },
+        {
+          "ref": "ans_8c27f075-9252-4545-997a-133438a72a77",
+          "keyword": "ans_b021703a-5586-461a-8a34-7862fbaa1504",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "bad122264d5dce000e28ef2d22a9f94e"
+        },
+        {
+          "ref": "ans_c9737650-8ccc-4a4e-99ed-e62ee6a533e1",
+          "keyword": "ans_8c27f075-9252-4545-997a-133438a72a77",
+          "answer": "*📋 Menú:*\n\n1. 👁️ Pelo a pelo\n2. 🔹 Punto a punto\n3. 👁️‍🗨️ Pestañas en tira\n4. 💫 Lifting",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "87190489dda9cf97d58f11dbbbde571e"
+        },
+        {
+          "ref": "ans_8894c5ba-78a7-46d5-adf3-c84341d1db13",
+          "keyword": "ans_c9737650-8ccc-4a4e-99ed-e62ee6a533e1",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "8bb272fa1cf870517f7b05001707139c"
+        },
+        {
+          "ref": "ans_8fecc5c0-e068-4187-bec6-e38d099e9fba",
+          "keyword": "ans_8894c5ba-78a7-46d5-adf3-c84341d1db13",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "37ccf820a35fc4d5709eb671914aa8cd"
+        },
+        {
+          "ref": "key_c924b5d4-f898-4e58-9ad8-deeefd773df8",
+          "keyword": [
+            "3"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "f527e0d58165f42aac80200dd9e494bc"
+        },
+        {
+          "ref": "ans_9b39e556-1224-43f9-8e34-85ec9c359b3a",
+          "keyword": "key_c924b5d4-f898-4e58-9ad8-deeefd773df8",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo de cejas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e4cb427ebc39e6b047ae2c3b67a43e27"
+        },
+        {
+          "ref": "ans_1e720a7e-9101-44ad-a9c4-933a731c1d82",
+          "keyword": "ans_9b39e556-1224-43f9-8e34-85ec9c359b3a",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d641c2cafa4f473d4a0b5342f37452b0"
+        },
+        {
+          "ref": "ans_2b1944ce-8277-4152-a2bd-1280ba10eb40",
+          "keyword": "ans_1e720a7e-9101-44ad-a9c4-933a731c1d82",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "9ab7470e4ba946d3d531429ed99a69c0"
+        },
+        {
+          "ref": "ans_d1e0e146-bf48-4ec0-b274-79367d3b6235",
+          "keyword": "ans_2b1944ce-8277-4152-a2bd-1280ba10eb40",
+          "answer": "*📋 Menú:*\n\n1. 🎨 Diseño y epilación\n2. ✨ Laminado\n3. 🌿 Hena",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "b455c45367dfcbcab357882652b89617"
+        },
+        {
+          "ref": "ans_2b1f9bc4-4c67-4f6d-a24a-411a27d2eba3",
+          "keyword": "ans_d1e0e146-bf48-4ec0-b274-79367d3b6235",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c8ded6dea9db01f4752ed02e82dcf1ca"
+        },
+        {
+          "ref": "ans_44ab1c6d-08b3-47c2-a415-f37f3704f730",
+          "keyword": "ans_2b1f9bc4-4c67-4f6d-a24a-411a27d2eba3",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "4478ef997da5fcf1ac0b39c8093e3fa7"
+        },
+        {
+          "ref": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+          "keyword": [
+            "4"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "14544ecc4392f95d9b995ed896ea75dc"
+        },
+        {
+          "ref": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+          "keyword": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en rostros\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "5f210aea3b93a7cdcbe411b16e456442"
+        },
+        {
+          "ref": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+          "keyword": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "f2058b2fb125d12e9f7570fd7c1cfd5f"
+        },
+        {
+          "ref": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+          "keyword": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "779fef05bb56d3c881352392e43a45fa"
+        },
+        {
+          "ref": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+          "keyword": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+          "answer": "*📋 Menú:*\n\n1. 🧖‍♀️ Limpieza facial profunda\n2. ✨ Peeling",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "560b1ef7bff80059d1de229cb54142b0"
+        },
+        {
+          "ref": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+          "keyword": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c2e1c38d8d5ac5bef48ceae97a3c0b76"
+        },
+        {
+          "ref": "ans_83b22951-64e8-47e5-b98a-2c7b0778bdab",
+          "keyword": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a467b5953a1444b2fa78ee0a69fee47c"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9810091d85fdb786a97c081d1384f3d8",
+    "from": "573508363260"
+  },
+  {
+    "ref": "bf0f21a4-0215-4476-bf07-9e7235e62955",
+    "keyword": "9810091d85fdb786a97c081d1384f3d8",
+    "answer": "4",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "e8139b7fa2fbc1b48f247924f8ad1961"
+  },
+  {
+    "ref": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+    "keyword": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+    "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en rostros\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5f210aea3b93a7cdcbe411b16e456442",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+    "keyword": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+    "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "f2058b2fb125d12e9f7570fd7c1cfd5f",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+    "keyword": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "779fef05bb56d3c881352392e43a45fa",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+    "keyword": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+    "answer": "*📋 Menú:*\n\n1. 🧖‍♀️ Limpieza facial profunda\n2. ✨ Peeling",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "560b1ef7bff80059d1de229cb54142b0",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+    "keyword": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c2e1c38d8d5ac5bef48ceae97a3c0b76",
+    "from": "573508363260"
+  },
+  {
+    "ref": "6afdd2cb-6d5d-4fab-a749-2af6464517d9",
+    "keyword": "c2e1c38d8d5ac5bef48ceae97a3c0b76",
+    "answer": "2",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_83b22951-64e8-47e5-b98a-2c7b0778bdab",
+    "keyword": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "a467b5953a1444b2fa78ee0a69fee47c",
+    "from": "573508363260"
+  },
+  {
+    "ref": "64642896-d3ee-4034-afaf-8de5344ad98e",
+    "keyword": null,
+    "answer": "*Para reservar haz clic en el siguiente enlace:* \n        https://wa.me/573508363260?text=%F0%9F%91%8B%20Hola,%20estoy%20interesad@%20en%20un%20servicio%20de%20Peelling",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573508363260",
+    "refSerialize": "474b28bd3b0fcaf44c9faac17b02f532"
+  },
+  {
+    "ref": "7e3b9aa4-d4f8-42c1-a635-47b40aa79db8",
+    "keyword": "ans_83b22951-64e8-47e5-b98a-2c7b0778bdab",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573508363260",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  },
+  {
+    "ref": "59c5bffd-c037-4b69-a9f0-ad2c87aaaf85",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "bot",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "a2ccc49680d312a17766fc74fea5c32e"
+  },
+  {
+    "ref": "ans_f58cbc3c-4c59-4808-bac3-3846514fe02d",
+    "keyword": "key_76340c28-1dbf-43a1-ae83-528a09b896ce",
+    "answer": "🙌 ¡Hola! Bienvenid@ a Spa Afrodita. Soy tu asistente virtual, *AfroditaBot*.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "c8535823a23fcb4fd10485169b7a2ede",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_27c774a9-b7aa-48fc-a966-a01b66668787",
+    "keyword": "ans_f58cbc3c-4c59-4808-bac3-3846514fe02d",
+    "answer": "*Menú:*\n\n1. 🌐 Soy Nuev@\n2. 👋 Ya soy cliente.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "6691753854db1dddd58a2ba58c95dd15",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_95a0d804-bba7-40cf-8f8f-e86f6b2ab7d1",
+    "keyword": "ans_27c774a9-b7aa-48fc-a966-a01b66668787",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9bf9a3b2abd0453c72edf836ab794b7a",
+    "from": "573508363260"
+  },
+  {
+    "ref": "27079749-c240-4b01-8940-f2a37b491c58",
+    "keyword": "9bf9a3b2abd0453c72edf836ab794b7a",
+    "answer": "2",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_17227625-71e0-42b6-9e5a-6a08d3831ef5",
+    "keyword": "key_d701e254-b3ad-49f1-8d5a-7ec7b9cac95e",
+    "answer": "🌟 ¿Quieres conocer un poco más de nosotros y nuestros servicios? ¡Síguenos!\n🔗 https://www.instagram.com/afroditaspa_pereira/",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b5353a31a9e778925556ea8640ba499a",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_5530daa7-7246-41b6-8d8c-f277ab795684",
+    "keyword": "ans_17227625-71e0-42b6-9e5a-6a08d3831ef5",
+    "answer": "*📋 Menú:*\n\n1. 💅 Uñas\n2. 👁️ Pestañas\n3. 🎨 Cejas\n4. 🌸 Rostro",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "1961bd1a50931d0b2f0c060be8f0a03d",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_57054500-44ad-4129-8355-d39b22ab299f",
+    "keyword": "ans_5530daa7-7246-41b6-8d8c-f277ab795684",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_3a15e1db-1104-4cdf-9002-ee61dbdffe6d",
+          "keyword": [
+            "1"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+        },
+        {
+          "ref": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+          "keyword": "key_3a15e1db-1104-4cdf-9002-ee61dbdffe6d",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en uñas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "f600eb6000088abcac697faf950210f6"
+        },
+        {
+          "ref": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+          "keyword": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "650f9fa28cf14a7c7701d82fbced3044"
+        },
+        {
+          "ref": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+          "keyword": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "403b55c2b5d161c7b1daec5632db621d"
+        },
+        {
+          "ref": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+          "keyword": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+          "answer": "1. 💅 Manicure y Pedicure\n2. 🌸 Tradicional\n3. 💎 Semipermanente\n4. ✨ Poligel\n5. 🖐️ PressOn\n6. 🔮 Acrílico esculpido\n7. 🖌️ Acrílico TIP\n8. 🎨 Barrido de acrílico\n9. 🛁 PediSpa",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "902c1b15e6c6bba9e46646cab437dd6d"
+        },
+        {
+          "ref": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+          "keyword": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0c80b8765b65b9391c7a1dd29ad78858"
+        },
+        {
+          "ref": "ans_0023f33b-2aa1-4692-9ba2-ec292b914f90",
+          "keyword": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ca10cd4909d34f21cca2d8fb420da144"
+        },
+        {
+          "ref": "key_41c13012-51e3-423f-bef4-f39c71e0f4e5",
+          "keyword": [
+            "2"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+        },
+        {
+          "ref": "ans_e1c6e285-d084-4a97-a044-c15dcec257d7",
+          "keyword": "key_41c13012-51e3-423f-bef4-f39c71e0f4e5",
+          "answer": "👁️ Conoce un poco más sobre nuestro trabajo de pestañas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "cab0a5f9d9d7a8e51b0107940e56dfb3"
+        },
+        {
+          "ref": "ans_b021703a-5586-461a-8a34-7862fbaa1504",
+          "keyword": "ans_e1c6e285-d084-4a97-a044-c15dcec257d7",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "deebfa96f6d472dfe3318d6b30f1944f"
+        },
+        {
+          "ref": "ans_8c27f075-9252-4545-997a-133438a72a77",
+          "keyword": "ans_b021703a-5586-461a-8a34-7862fbaa1504",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "bad122264d5dce000e28ef2d22a9f94e"
+        },
+        {
+          "ref": "ans_c9737650-8ccc-4a4e-99ed-e62ee6a533e1",
+          "keyword": "ans_8c27f075-9252-4545-997a-133438a72a77",
+          "answer": "*📋 Menú:*\n\n1. 👁️ Pelo a pelo\n2. 🔹 Punto a punto\n3. 👁️‍🗨️ Pestañas en tira\n4. 💫 Lifting",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "87190489dda9cf97d58f11dbbbde571e"
+        },
+        {
+          "ref": "ans_8894c5ba-78a7-46d5-adf3-c84341d1db13",
+          "keyword": "ans_c9737650-8ccc-4a4e-99ed-e62ee6a533e1",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "8bb272fa1cf870517f7b05001707139c"
+        },
+        {
+          "ref": "ans_8fecc5c0-e068-4187-bec6-e38d099e9fba",
+          "keyword": "ans_8894c5ba-78a7-46d5-adf3-c84341d1db13",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "37ccf820a35fc4d5709eb671914aa8cd"
+        },
+        {
+          "ref": "key_c924b5d4-f898-4e58-9ad8-deeefd773df8",
+          "keyword": [
+            "3"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "f527e0d58165f42aac80200dd9e494bc"
+        },
+        {
+          "ref": "ans_9b39e556-1224-43f9-8e34-85ec9c359b3a",
+          "keyword": "key_c924b5d4-f898-4e58-9ad8-deeefd773df8",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo de cejas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e4cb427ebc39e6b047ae2c3b67a43e27"
+        },
+        {
+          "ref": "ans_1e720a7e-9101-44ad-a9c4-933a731c1d82",
+          "keyword": "ans_9b39e556-1224-43f9-8e34-85ec9c359b3a",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d641c2cafa4f473d4a0b5342f37452b0"
+        },
+        {
+          "ref": "ans_2b1944ce-8277-4152-a2bd-1280ba10eb40",
+          "keyword": "ans_1e720a7e-9101-44ad-a9c4-933a731c1d82",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "9ab7470e4ba946d3d531429ed99a69c0"
+        },
+        {
+          "ref": "ans_d1e0e146-bf48-4ec0-b274-79367d3b6235",
+          "keyword": "ans_2b1944ce-8277-4152-a2bd-1280ba10eb40",
+          "answer": "*📋 Menú:*\n\n1. 🎨 Diseño y epilación\n2. ✨ Laminado\n3. 🌿 Hena",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "b455c45367dfcbcab357882652b89617"
+        },
+        {
+          "ref": "ans_2b1f9bc4-4c67-4f6d-a24a-411a27d2eba3",
+          "keyword": "ans_d1e0e146-bf48-4ec0-b274-79367d3b6235",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c8ded6dea9db01f4752ed02e82dcf1ca"
+        },
+        {
+          "ref": "ans_44ab1c6d-08b3-47c2-a415-f37f3704f730",
+          "keyword": "ans_2b1f9bc4-4c67-4f6d-a24a-411a27d2eba3",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "4478ef997da5fcf1ac0b39c8093e3fa7"
+        },
+        {
+          "ref": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+          "keyword": [
+            "4"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "14544ecc4392f95d9b995ed896ea75dc"
+        },
+        {
+          "ref": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+          "keyword": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en rostros\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "5f210aea3b93a7cdcbe411b16e456442"
+        },
+        {
+          "ref": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+          "keyword": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "f2058b2fb125d12e9f7570fd7c1cfd5f"
+        },
+        {
+          "ref": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+          "keyword": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "779fef05bb56d3c881352392e43a45fa"
+        },
+        {
+          "ref": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+          "keyword": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+          "answer": "*📋 Menú:*\n\n1. 🧖‍♀️ Limpieza facial profunda\n2. ✨ Peeling",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "560b1ef7bff80059d1de229cb54142b0"
+        },
+        {
+          "ref": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+          "keyword": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c2e1c38d8d5ac5bef48ceae97a3c0b76"
+        },
+        {
+          "ref": "ans_83b22951-64e8-47e5-b98a-2c7b0778bdab",
+          "keyword": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a467b5953a1444b2fa78ee0a69fee47c"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9810091d85fdb786a97c081d1384f3d8",
+    "from": "573508363260"
+  },
+  {
+    "ref": "3c633c18-6a49-4eda-9ea2-17df0fa5f029",
+    "keyword": "9810091d85fdb786a97c081d1384f3d8",
+    "answer": "4",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "e8139b7fa2fbc1b48f247924f8ad1961"
+  },
+  {
+    "ref": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+    "keyword": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+    "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en rostros\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "5f210aea3b93a7cdcbe411b16e456442",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+    "keyword": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+    "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "f2058b2fb125d12e9f7570fd7c1cfd5f",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+    "keyword": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "779fef05bb56d3c881352392e43a45fa",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+    "keyword": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+    "answer": "*📋 Menú:*\n\n1. 🧖‍♀️ Limpieza facial profunda\n2. ✨ Peeling",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "560b1ef7bff80059d1de229cb54142b0",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+    "keyword": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "c2e1c38d8d5ac5bef48ceae97a3c0b76",
+    "from": "573508363260"
+  },
+  {
+    "ref": "a7f43a6c-9cad-414e-9868-1ea3e2ae625c",
+    "keyword": "c2e1c38d8d5ac5bef48ceae97a3c0b76",
+    "answer": "1",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_83b22951-64e8-47e5-b98a-2c7b0778bdab",
+    "keyword": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "a467b5953a1444b2fa78ee0a69fee47c",
+    "from": "573508363260"
+  },
+  {
+    "ref": "677aaf38-6c36-4e86-ab48-180e432b4681",
+    "keyword": null,
+    "answer": "*Para reservar haz clic en el siguiente enlace:* \n        https://wa.me/573508363260?text=%F0%9F%91%8B%20Hola,%20estoy%20interesad@%20en%20un%20servicio%20de%20Limpieza%20facial%20profunda",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573508363260",
+    "refSerialize": "f9b3da799dbfea66f29e72670b0f3b6c"
+  },
+  {
+    "ref": "f50bb415-6965-4a7f-acdc-5efd26ac2fa2",
+    "keyword": "ans_83b22951-64e8-47e5-b98a-2c7b0778bdab",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573508363260",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  },
+  {
+    "ref": "146c9826-9138-4f9e-a4ee-4390a9ec9d13",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "bot",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "a2ccc49680d312a17766fc74fea5c32e"
+  },
+  {
+    "ref": "ans_f58cbc3c-4c59-4808-bac3-3846514fe02d",
+    "keyword": "key_76340c28-1dbf-43a1-ae83-528a09b896ce",
+    "answer": "🙌 ¡Hola! Bienvenid@ a Spa Afrodita. Soy tu asistente virtual, *AfroditaBot*.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "c8535823a23fcb4fd10485169b7a2ede",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_27c774a9-b7aa-48fc-a966-a01b66668787",
+    "keyword": "ans_f58cbc3c-4c59-4808-bac3-3846514fe02d",
+    "answer": "*Menú:*\n\n1. 🌐 Soy Nuev@\n2. 👋 Ya soy cliente.",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "6691753854db1dddd58a2ba58c95dd15",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_95a0d804-bba7-40cf-8f8f-e86f6b2ab7d1",
+    "keyword": "ans_27c774a9-b7aa-48fc-a966-a01b66668787",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9bf9a3b2abd0453c72edf836ab794b7a",
+    "from": "573508363260"
+  },
+  {
+    "ref": "40e0c90f-949f-4ab7-9b27-0e64db36e8b7",
+    "keyword": "9bf9a3b2abd0453c72edf836ab794b7a",
+    "answer": "1",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_f04e79bf-043d-4af4-9479-96d2fa417e13",
+    "keyword": "key_4883b731-fe9d-4136-a052-9c1fb1836255",
+    "answer": "💬 Cuéntanos cómo te llamas",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "05464d6658e5996bbe62e8bc7791cf2c",
+    "from": "573508363260"
+  },
+  {
+    "ref": "525da3a6-2a83-48e3-a076-ee1cb7803238",
+    "keyword": "05464d6658e5996bbe62e8bc7791cf2c",
+    "answer": "Sebastián",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "38cfabbd8c4e0f00a8d97bdf7ac34ab0"
+  },
+  {
+    "ref": "ans_17227625-71e0-42b6-9e5a-6a08d3831ef5",
+    "keyword": "key_d701e254-b3ad-49f1-8d5a-7ec7b9cac95e",
+    "answer": "🌟 ¿Quieres conocer un poco más de nosotros y nuestros servicios? ¡Síguenos!\n🔗 https://www.instagram.com/afroditaspa_pereira/",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "b5353a31a9e778925556ea8640ba499a",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_5530daa7-7246-41b6-8d8c-f277ab795684",
+    "keyword": "ans_17227625-71e0-42b6-9e5a-6a08d3831ef5",
+    "answer": "*📋 Menú:*\n\n1. 💅 Uñas\n2. 👁️ Pestañas\n3. 🎨 Cejas\n4. 🌸 Rostro",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "1961bd1a50931d0b2f0c060be8f0a03d",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_57054500-44ad-4129-8355-d39b22ab299f",
+    "keyword": "ans_5530daa7-7246-41b6-8d8c-f277ab795684",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [
+        {
+          "ref": "key_3a15e1db-1104-4cdf-9002-ee61dbdffe6d",
+          "keyword": [
+            "1"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "e0b2cd1acac633ea641e2d526690d369"
+        },
+        {
+          "ref": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+          "keyword": "key_3a15e1db-1104-4cdf-9002-ee61dbdffe6d",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en uñas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "f600eb6000088abcac697faf950210f6"
+        },
+        {
+          "ref": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+          "keyword": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "650f9fa28cf14a7c7701d82fbced3044"
+        },
+        {
+          "ref": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+          "keyword": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "403b55c2b5d161c7b1daec5632db621d"
+        },
+        {
+          "ref": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+          "keyword": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+          "answer": "1. 💅 Manicure y Pedicure\n2. 🌸 Tradicional\n3. 💎 Semipermanente\n4. ✨ Poligel\n5. 🖐️ PressOn\n6. 🔮 Acrílico esculpido\n7. 🖌️ Acrílico TIP\n8. 🎨 Barrido de acrílico\n9. 🛁 PediSpa",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "902c1b15e6c6bba9e46646cab437dd6d"
+        },
+        {
+          "ref": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+          "keyword": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "0c80b8765b65b9391c7a1dd29ad78858"
+        },
+        {
+          "ref": "ans_0023f33b-2aa1-4692-9ba2-ec292b914f90",
+          "keyword": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "ca10cd4909d34f21cca2d8fb420da144"
+        },
+        {
+          "ref": "key_41c13012-51e3-423f-bef4-f39c71e0f4e5",
+          "keyword": [
+            "2"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "389a29e5d1b72d14d3fa321bb058be56"
+        },
+        {
+          "ref": "ans_e1c6e285-d084-4a97-a044-c15dcec257d7",
+          "keyword": "key_41c13012-51e3-423f-bef4-f39c71e0f4e5",
+          "answer": "👁️ Conoce un poco más sobre nuestro trabajo de pestañas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "cab0a5f9d9d7a8e51b0107940e56dfb3"
+        },
+        {
+          "ref": "ans_b021703a-5586-461a-8a34-7862fbaa1504",
+          "keyword": "ans_e1c6e285-d084-4a97-a044-c15dcec257d7",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "deebfa96f6d472dfe3318d6b30f1944f"
+        },
+        {
+          "ref": "ans_8c27f075-9252-4545-997a-133438a72a77",
+          "keyword": "ans_b021703a-5586-461a-8a34-7862fbaa1504",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "bad122264d5dce000e28ef2d22a9f94e"
+        },
+        {
+          "ref": "ans_c9737650-8ccc-4a4e-99ed-e62ee6a533e1",
+          "keyword": "ans_8c27f075-9252-4545-997a-133438a72a77",
+          "answer": "*📋 Menú:*\n\n1. 👁️ Pelo a pelo\n2. 🔹 Punto a punto\n3. 👁️‍🗨️ Pestañas en tira\n4. 💫 Lifting",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "87190489dda9cf97d58f11dbbbde571e"
+        },
+        {
+          "ref": "ans_8894c5ba-78a7-46d5-adf3-c84341d1db13",
+          "keyword": "ans_c9737650-8ccc-4a4e-99ed-e62ee6a533e1",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "8bb272fa1cf870517f7b05001707139c"
+        },
+        {
+          "ref": "ans_8fecc5c0-e068-4187-bec6-e38d099e9fba",
+          "keyword": "ans_8894c5ba-78a7-46d5-adf3-c84341d1db13",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "37ccf820a35fc4d5709eb671914aa8cd"
+        },
+        {
+          "ref": "key_c924b5d4-f898-4e58-9ad8-deeefd773df8",
+          "keyword": [
+            "3"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "f527e0d58165f42aac80200dd9e494bc"
+        },
+        {
+          "ref": "ans_9b39e556-1224-43f9-8e34-85ec9c359b3a",
+          "keyword": "key_c924b5d4-f898-4e58-9ad8-deeefd773df8",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo de cejas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "e4cb427ebc39e6b047ae2c3b67a43e27"
+        },
+        {
+          "ref": "ans_1e720a7e-9101-44ad-a9c4-933a731c1d82",
+          "keyword": "ans_9b39e556-1224-43f9-8e34-85ec9c359b3a",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "d641c2cafa4f473d4a0b5342f37452b0"
+        },
+        {
+          "ref": "ans_2b1944ce-8277-4152-a2bd-1280ba10eb40",
+          "keyword": "ans_1e720a7e-9101-44ad-a9c4-933a731c1d82",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "9ab7470e4ba946d3d531429ed99a69c0"
+        },
+        {
+          "ref": "ans_d1e0e146-bf48-4ec0-b274-79367d3b6235",
+          "keyword": "ans_2b1944ce-8277-4152-a2bd-1280ba10eb40",
+          "answer": "*📋 Menú:*\n\n1. 🎨 Diseño y epilación\n2. ✨ Laminado\n3. 🌿 Hena",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "b455c45367dfcbcab357882652b89617"
+        },
+        {
+          "ref": "ans_2b1f9bc4-4c67-4f6d-a24a-411a27d2eba3",
+          "keyword": "ans_d1e0e146-bf48-4ec0-b274-79367d3b6235",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c8ded6dea9db01f4752ed02e82dcf1ca"
+        },
+        {
+          "ref": "ans_44ab1c6d-08b3-47c2-a415-f37f3704f730",
+          "keyword": "ans_2b1f9bc4-4c67-4f6d-a24a-411a27d2eba3",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "4478ef997da5fcf1ac0b39c8093e3fa7"
+        },
+        {
+          "ref": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+          "keyword": [
+            "4"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "14544ecc4392f95d9b995ed896ea75dc"
+        },
+        {
+          "ref": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+          "keyword": "key_e3f125e7-70a6-4ae2-838e-8abbfa00f50d",
+          "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en rostros\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "5f210aea3b93a7cdcbe411b16e456442"
+        },
+        {
+          "ref": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+          "keyword": "ans_af725332-9282-43f6-9ce7-57f7e628dbb0",
+          "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "f2058b2fb125d12e9f7570fd7c1cfd5f"
+        },
+        {
+          "ref": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+          "keyword": "ans_78713de0-bb11-4108-9807-c8bcc35ecd1f",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "779fef05bb56d3c881352392e43a45fa"
+        },
+        {
+          "ref": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+          "keyword": "ans_082035c4-e37a-47bf-878f-66a45584194b",
+          "answer": "*📋 Menú:*\n\n1. 🧖‍♀️ Limpieza facial profunda\n2. ✨ Peeling",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "560b1ef7bff80059d1de229cb54142b0"
+        },
+        {
+          "ref": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+          "keyword": "ans_ef21effa-9ce1-4932-b07f-27995d3932a5",
+          "answer": "__capture_only_intended__",
+          "options": {
+            "buttons": [],
+            "capture": true,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "c2e1c38d8d5ac5bef48ceae97a3c0b76"
+        },
+        {
+          "ref": "ans_83b22951-64e8-47e5-b98a-2c7b0778bdab",
+          "keyword": "ans_e7e2d922-013e-44c7-8661-bbcc64bf2c96",
+          "answer": "__call_action__",
+          "options": {
+            "buttons": [],
+            "capture": false,
+            "delay": 0,
+            "nested": [],
+            "keyword": {},
+            "callback": true
+          },
+          "refSerialize": "a467b5953a1444b2fa78ee0a69fee47c"
+        }
+      ],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "9810091d85fdb786a97c081d1384f3d8",
+    "from": "573508363260"
+  },
+  {
+    "ref": "946552c4-a2d0-42db-b0f6-9eddbdb9f09a",
+    "keyword": "9810091d85fdb786a97c081d1384f3d8",
+    "answer": "1",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "290236b1d481a790a200ea6e94b2122a"
+  },
+  {
+    "ref": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+    "keyword": "key_3a15e1db-1104-4cdf-9002-ee61dbdffe6d",
+    "answer": "👁️ Conoce un poco mas sobre nuestro trabajo en uñas\n🔗 https://www.instagram.com/stories/highlights/17848793218448182/",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "f600eb6000088abcac697faf950210f6",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+    "keyword": "ans_96a042e5-b46d-4e33-b4cb-1849d0f262e4",
+    "answer": "*✨ Estos son nuestros servicios! ✨*\n📩 Por favor, escríbenos en cuál o cuáles de estos estás interesad@",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "650f9fa28cf14a7c7701d82fbced3044",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+    "keyword": "ans_3d6ad0aa-3191-4700-a686-22a64934e260",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "403b55c2b5d161c7b1daec5632db621d",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+    "keyword": "ans_16443842-177d-44f1-adeb-dd9e7c9032c6",
+    "answer": "1. 💅 Manicure y Pedicure\n2. 🌸 Tradicional\n3. 💎 Semipermanente\n4. ✨ Poligel\n5. 🖐️ PressOn\n6. 🔮 Acrílico esculpido\n7. 🖌️ Acrílico TIP\n8. 🎨 Barrido de acrílico\n9. 🛁 PediSpa",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "902c1b15e6c6bba9e46646cab437dd6d",
+    "from": "573508363260"
+  },
+  {
+    "ref": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+    "keyword": "ans_64728584-5c9c-4723-8f0c-1ea38865e189",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "0c80b8765b65b9391c7a1dd29ad78858",
+    "from": "573508363260"
+  },
+  {
+    "ref": "cb076f9b-03cf-4f26-a5fb-c162727d1325",
+    "keyword": "0c80b8765b65b9391c7a1dd29ad78858",
+    "answer": "2",
+    "options": {},
+    "from": "573508363260",
+    "refSerialize": "2294c3d08b53a6effa5df696a15b9d30"
+  },
+  {
+    "ref": "ans_0023f33b-2aa1-4692-9ba2-ec292b914f90",
+    "keyword": "ans_a59ca68f-81f1-42e8-a788-04d1725ce05f",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "ca10cd4909d34f21cca2d8fb420da144",
+    "from": "573508363260"
+  },
+  {
+    "ref": "a2bc0b96-f5a2-4d38-9e1f-09b384d457b9",
+    "keyword": null,
+    "answer": "*Para reservar haz clic en el siguiente enlace:* \n        https://wa.me/573508363260?text=%F0%9F%91%8B%20Hola,%20mi%20nombre%20es%20Sebasti%C3%A1n%20y%20estoy%20interesad@%20en%20un%20servicio%20de%20U%C3%B1as%20tradicional",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573508363260",
+    "refSerialize": "e1681be4849464e0068f92208d4fccf8"
+  },
+  {
+    "ref": "7e487214-d3bd-4683-a271-850a8cd6174a",
+    "keyword": "ans_0023f33b-2aa1-4692-9ba2-ec292b914f90",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "573508363260",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  }
+]
